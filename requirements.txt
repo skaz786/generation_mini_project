@@ -1,0 +1,16 @@
+atomicwrites==1.4.0
+attrs==20.3.0
+cffi==1.14.4
+colorama==0.4.4
+cryptography==3.2.1
+iniconfig==1.1.1
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pycparser==2.20
+PyMySQL==0.10.1
+pyparsing==2.4.7
+pytest==6.2.2
+python-dotenv==0.15.0
+six==1.15.0
+toml==0.10.2
